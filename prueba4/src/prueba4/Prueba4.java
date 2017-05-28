@@ -18,6 +18,7 @@ public class Prueba4 {
         // TODO code application logic here
         String a =" hola a ver !!";
         String b= "aaaaaaaaaaaaaaaa";
+        String c="a";
     }
     
 }
